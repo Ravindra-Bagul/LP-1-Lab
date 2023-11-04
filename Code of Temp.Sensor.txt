@@ -1,7 +1,7 @@
 int tsensor;
 void setup()
 {
-  pinMode(2,INPUT);
+  pinMode(A2,INPUT);
   pinMode(13,OUTPUT);
   pinMode(12,OUTPUT);
 }
